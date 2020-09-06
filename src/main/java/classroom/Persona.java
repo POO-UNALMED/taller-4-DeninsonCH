@@ -8,8 +8,8 @@ public class Persona {
    
     
     static {
-        
-        cedula = 1; 
+       
+        cedula = 0; 
     }
     Persona(){
     	totalPersonas++;
